@@ -7,7 +7,8 @@ This project is part of my Data Science internship and demonstrates the use of P
 
 ---
 <p align="center">
-  <img src="images/heatmap.png" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1793f6a2-de78-46ab-b8d5-dbbe956e7db7" />
+g" width="45%" />
   <img src="images/scatter.png" width="45%" />
 </p>
 
