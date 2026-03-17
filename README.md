@@ -8,14 +8,17 @@ This project is part of my Data Science internship and demonstrates the use of P
 ---
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1793f6a2-de78-46ab-b8d5-dbbe956e7db7" />
-g" width="45%" />
-  <img src="images/scatter.png" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2c6014aa-51f4-40aa-a391-1d94d65d20f2" />
+
 </p>
 
 <p align="center">
-  <img src="images/histogram.png" width="30%" />
-  <img src="images/lineplot.png" width="30%" />
-  <img src="images/barplot.png" width="30%" />
+  <img src="https://github.com/user-attachments/assets/5d526643-2ea2-4167-9873-7e38d571e868" />
+>
+  <img src="https://github.com/user-attachments/assets/dd479ea3-6fb6-48f1-8bec-ab46cc59db4a" />
+>
+  <img src="https://github.com/user-attachments/assets/b4164642-1bb0-4d8f-a5cf-e8ad0e7d34b9" />
+>
 </p>
 
 ## 🎯 Objectives
