@@ -27,32 +27,25 @@ This project is part of my Data Science internship and demonstrates the use of P
 
 ## 📂 Project Structure
 ```
-├── internship.ipynb     # Main Jupyter Notebook
-├── dataset.csv          # Dataset (if applicable)
-├── README.md            # Project Documentation
+├── internship.ipynb     
+├── dataset.csv          
+├── images/              # Folder for visualization images
+│   ├── histogram.png
+│   ├── heatmap.png
+│   ├── scatter.png
+│   ├── lineplot.png
+│   └── barplot.png
+├── README.md            
 ```
 
 ---
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-```
-
-### 2. Navigate to the project folder
-```bash
 cd your-repo-name
-```
-
-### 3. Install dependencies
-```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
-### 4. Run Jupyter Notebook
-```bash
 jupyter notebook
 ```
 
@@ -85,11 +78,22 @@ jupyter notebook
 
 ---
 
-## 📈 Key Visualizations
-- Distribution plots  
-- Correlation heatmap  
-- Feature relationships  
-- Trend analysis  
+## 📈 Visualizations
+
+### 📊 Histogram
+![Histogram](images/histogram.png)
+
+### 🔥 Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+### 📉 Scatter Plot
+![Scatter](images/scatter.png)
+
+### 📈 Line Plot
+![Line Plot](images/lineplot.png)
+
+### 📊 Bar Chart
+![Bar Plot](images/barplot.png)
 
 ---
 
@@ -125,8 +129,6 @@ jupyter notebook
 
 ## 👨‍💻 Author
 **Sahil Naykodi**  
-- Data Science Intern  
-- Skills: Python, Data Analysis, Machine Learning  
 
 ---
 
