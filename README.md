@@ -1,9 +1,21 @@
 # 📊 Data Science Internship Project
 
+---
+
 ## 📌 Overview
 This project is part of my Data Science internship and demonstrates the use of Python libraries for data analysis, visualization, and basic machine learning. The project is implemented in a Jupyter Notebook and covers the complete data science workflow.
 
 ---
+<p align="center">
+  <img src="images/heatmap.png" width="45%" />
+  <img src="images/scatter.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/histogram.png" width="30%" />
+  <img src="images/lineplot.png" width="30%" />
+  <img src="images/barplot.png" width="30%" />
+</p>
 
 ## 🎯 Objectives
 - Perform data preprocessing and cleaning  
@@ -29,7 +41,7 @@ This project is part of my Data Science internship and demonstrates the use of P
 ```
 ├── internship.ipynb     
 ├── dataset.csv          
-├── images/              # Folder for visualization images
+├── images/              
 │   ├── histogram.png
 │   ├── heatmap.png
 │   ├── scatter.png
@@ -41,7 +53,6 @@ This project is part of my Data Science internship and demonstrates the use of P
 ---
 
 ## ⚙️ Installation & Setup
-
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -78,25 +89,6 @@ jupyter notebook
 
 ---
 
-## 📈 Visualizations
-
-### 📊 Histogram
-![Histogram](images/histogram.png)
-
-### 🔥 Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
-### 📉 Scatter Plot
-![Scatter](images/scatter.png)
-
-### 📈 Line Plot
-![Line Plot](images/lineplot.png)
-
-### 📊 Bar Chart
-![Bar Plot](images/barplot.png)
-
----
-
 ## 🚀 Results
 - Extracted meaningful insights from the dataset  
 - Identified patterns and trends  
@@ -128,7 +120,7 @@ jupyter notebook
 ---
 
 ## 👨‍💻 Author
-**Sahil Naykodi**  
+**Sahil Naykodi**
 
 ---
 
